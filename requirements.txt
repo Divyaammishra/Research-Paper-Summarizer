@@ -1,0 +1,11 @@
+#Langchain
+Langchain-groq
+Langchain-core
+Langchain-community
+
+#Streamlit
+Streamlit
+
+#Environment Variable Management
+python-dotenv
+
